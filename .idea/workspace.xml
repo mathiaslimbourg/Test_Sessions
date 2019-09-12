@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9519dea3-f880-4bec-9c5b-33c22e882bb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TestDrieWebComponenten_MathiasLimbourg-master/TestDrieWebComponenten_MathiasLimbourg/TestDrieWebComponenten_MathiasLimbourg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestDrieWebComponenten_MathiasLimbourg-master/TestDrieWebComponenten_MathiasLimbourg/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webcomponenten_Test/Webcomponenten_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/webcomponents/LogOutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/webcomponents/TestDrieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/welcome.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDrieWebComponenten_MathiasLimbourg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../guestbook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../guestbook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/webcomponents/DoGetDoesNotExistServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/webcomponents/DoPostServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/webcomponents/helloWorldServlets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/webcomponents/initServiceDestroyServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/webcomponents/randomNameServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/webcomponents/DoGetDoesNotExistServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/webcomponents/DoPostServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/webcomponents/helloWorldServlets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/webcomponents/initServiceDestroyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/webcomponents/randomNameServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello/WEB-INF/classes/be/intecbrussel/webcomponents/DoGetDoesNotExistServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello/WEB-INF/classes/be/intecbrussel/webcomponents/DoPostServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello/WEB-INF/classes/be/intecbrussel/webcomponents/helloWorldServlets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello/WEB-INF/classes/be/intecbrussel/webcomponents/initServiceDestroyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello/WEB-INF/classes/be/intecbrussel/webcomponents/randomNameServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/hello/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hello/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Q5lQVww9nXNfDNddMpBXH9wstH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mathias\IdeaProjects\helloworld\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9519dea3-f880-4bec-9c5b-33c22e882bb7" name="Default Changelist" comment="" />
+      <created>1567068322228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567068322228</updated>
+      <workItem from="1567068326323" duration="1241000" />
+      <workItem from="1567069608071" duration="68000" />
+      <workItem from="1567069692549" duration="20941000" />
+      <workItem from="1567428832147" duration="344000" />
+      <workItem from="1568192994039" duration="3175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
