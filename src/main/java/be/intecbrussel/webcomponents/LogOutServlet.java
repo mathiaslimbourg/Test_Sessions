@@ -18,6 +18,8 @@ public class LogOutServlet extends HttpServlet {
         resp.setContentType("text/html");
         PrintWriter out = resp.getWriter();
 
+
+        //het is een good practice om de forwarding pas als laatstse stap te doen
         req.getRequestDispatcher("/WEB-INF/login.jsp").forward(req,resp);
 
         HttpSession session = req.getSession();
